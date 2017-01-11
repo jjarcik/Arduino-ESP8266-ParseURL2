@@ -7,6 +7,9 @@ Next way how to get data from URL
 | 6 | TX |
 | 7 | RX |
 
+## libs
+https://github.com/bportaluri/WiFiEsp
+
 ## esp8266 firmware
 upload this last firmware by this site
 http://remotexy.com/en/help/esp8266-firmware-update/
