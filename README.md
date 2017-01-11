@@ -15,6 +15,16 @@ upload this last firmware by this site
 http://remotexy.com/en/help/esp8266-firmware-update/
 
 ```
+AT+GMR
+
+AT version:0.50.0.0(Sep 18 2015 20:55:38)
+SDK version:1.4.0
+compile time:Sep 18 2015 21:46:52
+
+```
+
+
+```
 [WiFiEsp] Initializing ESP module
 [WiFiEsp] Initilization successful - 1.4.0
 Attempting to connect to WPA SSID: Doma WIFI
