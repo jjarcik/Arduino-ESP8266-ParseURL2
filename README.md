@@ -6,6 +6,17 @@ Next way how to get data from URL
 | ------- |:-------:|
 | 6 | TX |
 | 7 | RX |
+| .. | .. |
+
+| Arduino | 3.3V Reg |
+| ------- |:-------:|
+| 5V | In 5v |
+| GND | In GND |
+
+| ESP8266 | 3.3V Reg |
+| ------- |:-------:|
+| VC | Out 3.3v |
+| GND | Out GND |
 
 ## libs
 https://github.com/bportaluri/WiFiEsp
